@@ -42,3 +42,8 @@
 #### `revert`
 - **Meaning**: Reverts a previous commit
 - **Example**: `revert: remove experimental feature X`
+
+
+
+<!-- To resolve the EsLint Issue -->
+#### npm run lint:fix
