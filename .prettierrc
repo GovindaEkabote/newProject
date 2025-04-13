@@ -1,9 +1,9 @@
 {
-    "trailingComma":"none",
-    "tabWidth":4,
-    "semi":false,
-    "singleQuote":true,
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true,
     "printWidth": 80,
-    "singleAttributePerLine":true,
-    "endOfLine":"crlf"
+    "singleAttributePerLine": true,
+    "endOfLine": "crlf"
 }
