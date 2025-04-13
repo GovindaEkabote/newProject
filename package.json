@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js",
-    "start": "node index.js",
+    "dev": "nodemon src/index.js",
+    "start": "nodemon src/index.js",
     "prepare": "husky"
   },
   "author": "",
@@ -12,6 +12,7 @@
   "description": "",
   "devDependencies": {
     "husky": "^9.1.7",
-    "lint-staged": "^15.5.1"
+    "lint-staged": "^15.5.1",
+    "nodemon": "^3.1.9"
   }
 }
